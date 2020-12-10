@@ -1,0 +1,4 @@
+D:\WinFormP\Bai1\Bai3Qlsv\obj\Debug\netcoreapp3.1\Bai3Qlsv.csprojAssemblyReference.cache
+D:\WinFormP\Bai1\Bai3Qlsv\obj\Debug\netcoreapp3.1\Bai3Qlsv.AssemblyInfoInputs.cache
+D:\WinFormP\Bai1\Bai3Qlsv\obj\Debug\netcoreapp3.1\Bai3Qlsv.AssemblyInfo.cs
+D:\WinFormP\Bai1\Bai3Qlsv\obj\Debug\netcoreapp3.1\Bai3Qlsv.csproj.CoreCompileInputs.cache

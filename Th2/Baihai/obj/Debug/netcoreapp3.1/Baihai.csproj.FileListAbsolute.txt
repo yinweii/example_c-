@@ -1,0 +1,13 @@
+D:\WinFormP\Th2\Baihai\bin\Debug\netcoreapp3.1\Baihai.exe
+D:\WinFormP\Th2\Baihai\bin\Debug\netcoreapp3.1\Baihai.deps.json
+D:\WinFormP\Th2\Baihai\bin\Debug\netcoreapp3.1\Baihai.runtimeconfig.json
+D:\WinFormP\Th2\Baihai\bin\Debug\netcoreapp3.1\Baihai.runtimeconfig.dev.json
+D:\WinFormP\Th2\Baihai\bin\Debug\netcoreapp3.1\Baihai.dll
+D:\WinFormP\Th2\Baihai\bin\Debug\netcoreapp3.1\Baihai.pdb
+D:\WinFormP\Th2\Baihai\obj\Debug\netcoreapp3.1\Baihai.csprojAssemblyReference.cache
+D:\WinFormP\Th2\Baihai\obj\Debug\netcoreapp3.1\Baihai.AssemblyInfoInputs.cache
+D:\WinFormP\Th2\Baihai\obj\Debug\netcoreapp3.1\Baihai.AssemblyInfo.cs
+D:\WinFormP\Th2\Baihai\obj\Debug\netcoreapp3.1\Baihai.csproj.CoreCompileInputs.cache
+D:\WinFormP\Th2\Baihai\obj\Debug\netcoreapp3.1\Baihai.dll
+D:\WinFormP\Th2\Baihai\obj\Debug\netcoreapp3.1\Baihai.pdb
+D:\WinFormP\Th2\Baihai\obj\Debug\netcoreapp3.1\Baihai.genruntimeconfig.cache

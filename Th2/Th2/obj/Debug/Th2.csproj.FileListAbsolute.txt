@@ -1,0 +1,7 @@
+D:\WinFormP\Th2\Th2\bin\Debug\Th2.exe.config
+D:\WinFormP\Th2\Th2\bin\Debug\Th2.exe
+D:\WinFormP\Th2\Th2\bin\Debug\Th2.pdb
+D:\WinFormP\Th2\Th2\obj\Debug\Th2.csprojAssemblyReference.cache
+D:\WinFormP\Th2\Th2\obj\Debug\Th2.csproj.CoreCompileInputs.cache
+D:\WinFormP\Th2\Th2\obj\Debug\Th2.exe
+D:\WinFormP\Th2\Th2\obj\Debug\Th2.pdb

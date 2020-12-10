@@ -1,0 +1,13 @@
+D:\WinFormP\Bai1\Bai2\bin\Debug\netcoreapp3.1\Bai2.exe
+D:\WinFormP\Bai1\Bai2\bin\Debug\netcoreapp3.1\Bai2.deps.json
+D:\WinFormP\Bai1\Bai2\bin\Debug\netcoreapp3.1\Bai2.runtimeconfig.json
+D:\WinFormP\Bai1\Bai2\bin\Debug\netcoreapp3.1\Bai2.runtimeconfig.dev.json
+D:\WinFormP\Bai1\Bai2\bin\Debug\netcoreapp3.1\Bai2.dll
+D:\WinFormP\Bai1\Bai2\bin\Debug\netcoreapp3.1\Bai2.pdb
+D:\WinFormP\Bai1\Bai2\obj\Debug\netcoreapp3.1\Bai2.csprojAssemblyReference.cache
+D:\WinFormP\Bai1\Bai2\obj\Debug\netcoreapp3.1\Bai2.AssemblyInfoInputs.cache
+D:\WinFormP\Bai1\Bai2\obj\Debug\netcoreapp3.1\Bai2.AssemblyInfo.cs
+D:\WinFormP\Bai1\Bai2\obj\Debug\netcoreapp3.1\Bai2.csproj.CoreCompileInputs.cache
+D:\WinFormP\Bai1\Bai2\obj\Debug\netcoreapp3.1\Bai2.dll
+D:\WinFormP\Bai1\Bai2\obj\Debug\netcoreapp3.1\Bai2.pdb
+D:\WinFormP\Bai1\Bai2\obj\Debug\netcoreapp3.1\Bai2.genruntimeconfig.cache

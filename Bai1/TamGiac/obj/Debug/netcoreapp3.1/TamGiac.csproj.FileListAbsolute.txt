@@ -1,0 +1,13 @@
+D:\WinFormP\Bai1\TamGiac\bin\Debug\netcoreapp3.1\TamGiac.exe
+D:\WinFormP\Bai1\TamGiac\bin\Debug\netcoreapp3.1\TamGiac.deps.json
+D:\WinFormP\Bai1\TamGiac\bin\Debug\netcoreapp3.1\TamGiac.runtimeconfig.json
+D:\WinFormP\Bai1\TamGiac\bin\Debug\netcoreapp3.1\TamGiac.runtimeconfig.dev.json
+D:\WinFormP\Bai1\TamGiac\bin\Debug\netcoreapp3.1\TamGiac.dll
+D:\WinFormP\Bai1\TamGiac\bin\Debug\netcoreapp3.1\TamGiac.pdb
+D:\WinFormP\Bai1\TamGiac\obj\Debug\netcoreapp3.1\TamGiac.csprojAssemblyReference.cache
+D:\WinFormP\Bai1\TamGiac\obj\Debug\netcoreapp3.1\TamGiac.AssemblyInfoInputs.cache
+D:\WinFormP\Bai1\TamGiac\obj\Debug\netcoreapp3.1\TamGiac.AssemblyInfo.cs
+D:\WinFormP\Bai1\TamGiac\obj\Debug\netcoreapp3.1\TamGiac.csproj.CoreCompileInputs.cache
+D:\WinFormP\Bai1\TamGiac\obj\Debug\netcoreapp3.1\TamGiac.dll
+D:\WinFormP\Bai1\TamGiac\obj\Debug\netcoreapp3.1\TamGiac.pdb
+D:\WinFormP\Bai1\TamGiac\obj\Debug\netcoreapp3.1\TamGiac.genruntimeconfig.cache
